@@ -9,19 +9,9 @@ Halo! Saya Uti Nur Padila, lulusan SMK jurusan Akuntansi yang saat ini sedang be
 ---
 
 
-
-
-
-
----
-
 ## 🚀 Core Tech Stacks
 <p>
   <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
 
-
-
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" width="100%" />
-</p>
